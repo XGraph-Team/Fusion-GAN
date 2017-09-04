@@ -4,6 +4,7 @@ Codes for the paper
 
 # Usage
 Download all files and run
-`python
+
+`
 python fusion_gan.py
 `
