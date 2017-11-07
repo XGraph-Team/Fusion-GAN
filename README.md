@@ -7,4 +7,6 @@ Download all files and run
 
 `
 python fusion_gan.py
+
 `
+*.pkl is pre-processed files of music, but they cannot be recovered into original music
