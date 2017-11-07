@@ -6,7 +6,7 @@ Codes for the paper
 Download all files and run
 
 ```python 
-fusion_gan.py
+python fusion_gan.py
 
 ```
 
