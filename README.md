@@ -1,7 +1,7 @@
 # Fusion GAN
-Fusion GAN is an extension of vanillia GAN, it can be used to fuse data from different domains. 
-The current implementation is based on discretized sequence modeling, so can be directly applied for any problem of such kind, such as word sequence.
-Replacing the generator as you want, you can fuse any type of data. e.g., use CNN as generator, it's possible to fuse two different styles, say a fusion of Van Gogh and Picasso.
+- Fusion GAN is an extension of vanillia GAN, it can be used to fuse patterns from different domains. 
+- Current implementation is based on discretized sequence modeling, so can be directly applied for any problem of such kind, such as word sequence.
+- Replacing the generator as you want, you can fuse any type of data. e.g., use CNN as generator, it's possible to fuse two different styles, say a fusion of Van Gogh and Picasso.
 
 # related papaer
 Codes for the paper 
