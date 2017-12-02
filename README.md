@@ -5,7 +5,7 @@ Codes for the paper
 # Demo
 Please refer to http://people.cs.vt.edu/czq/publication/fusiongan/
 
-# Detaled Usage (under construction)
+# Detailed Manual (under construction)
 Download all files and run
 
 ```python 
