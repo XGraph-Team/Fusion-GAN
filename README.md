@@ -16,6 +16,13 @@ required python package
 numpy tensorflow
 ```
 
+Files description
+- `discriminator.py`: GAN discriminator class
+- `generator.py`: GAN generator class
+- `dataloader.py`: data handler
+- `midi_io.py`: music data process, such as MIDI to seq and seq to MIDI
+- `rollout.py`: rollout for delayed update in reinforcement learning
+
 Download all files and run
 
 ```python 
