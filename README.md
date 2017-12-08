@@ -13,7 +13,7 @@ Please refer to http://people.cs.vt.edu/czq/publication/fusiongan/
 # Detailed Manual (under construction)
 required python package
 ```
-numpy tensorflow
+numpy tensorflow magenta.music pandas midi music21 
 ```
 
 Files description
