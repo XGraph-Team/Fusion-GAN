@@ -11,6 +11,11 @@ Codes for the paper
 Please refer to http://people.cs.vt.edu/czq/publication/fusiongan/
 
 # Detailed Manual (under construction)
+required python package
+```
+numpy tensorflow
+```
+
 Download all files and run
 
 ```python 
