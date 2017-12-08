@@ -7,7 +7,7 @@ import tensorflow as tf
 from dataloader import Gen_Data_loader, Dis_dataloader, F_Dis_dataloader, F_Gen_Data_loader, AB_Dis_dataloader
 from discriminator import Discriminator
 from generator import Generator
-from music_seqgan.midi_io import MIDI_IO
+from midi_io import MIDI_IO
 from rollout import ROLLOUT
 
 #########################################################################################
