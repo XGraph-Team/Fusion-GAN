@@ -504,4 +504,4 @@ def seqgan(pos_file_a, pos_file_b):
     mio.trans_generated_to_midi(output_music_fusion)
 
 if __name__ == '__main__':
-    seqgan('./jazz_midi.pk','./folk_midi.pk')
+    seqgan('./jazz_maj_midi.pk','./folk_maj_midi.pk')
