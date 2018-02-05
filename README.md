@@ -34,3 +34,4 @@ python fusion_gan.py
 
 # Use your own training data
 Please see `midi_io.py` in which there are functions for converting between MIDI and number sequences
+Then, update the data path at `main` function of `fusion_gan.py`
