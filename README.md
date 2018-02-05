@@ -31,3 +31,6 @@ python fusion_gan.py
 ```
 
 *.pkl is pre-processed files of music, but they cannot be recovered into original music
+
+# Use your own training data
+Please see `midi_io.py` in which there are functions for converting between MIDI and number sequences
